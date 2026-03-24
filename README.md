@@ -2,7 +2,7 @@
 
 A full-featured subscription management dashboard that runs on your Zo Computer. Track, analyze, and optimize every subscription with waste scoring, value analysis, detox mode, and savings scenarios.
 
-![ZoScription Dashboard](screenshots/dashboard.png)
+![Screenshot](assets/screenshot.png)
 
 ## Quick Install
 
